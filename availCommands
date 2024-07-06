@@ -1,1 +1,2 @@
-ls
+ls;-a:false:-l:false:-h:false
+cd;
