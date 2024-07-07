@@ -1,2 +1,2 @@
-ls;;-a:-l:-h:[PATH]
-cd;<PATH>;
+ls;;-a:-l:-h:[PATH];false
+cd;<PATH>;;true
