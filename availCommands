@@ -1,2 +1,3 @@
 ls;<DIRPATH>;-a:-l:-h:[PATH];false
 cd;<DIRPATH>;;true
+sudo;<CMD>;;false
